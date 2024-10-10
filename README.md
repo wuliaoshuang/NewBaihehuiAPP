@@ -1,4 +1,4 @@
-English | [简体中文](READM_zh.md)
+English | [简体中文](README_zh.md)
 
 <h2 align="center">New Yuri Forum APP</h2>
 
