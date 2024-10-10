@@ -1,4 +1,4 @@
-Simplified Chinese | [English](README.md)
+English | [简体中文](READM_zh.md)
 
 <h2 align="center">New Yuri Forum APP</h2>
 
@@ -42,8 +42,8 @@ Through this project, we will improve in the following areas:
 
 ## 📥 Installation
 
-| Platform | Download                                                                                     |
-| -------- | -------------------------------------------------------------------------------------------- |
+| Platform | Download                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------- |
 | Android  | [Download](https://github.com/xing-yue-hui/xing-yue-hui/releases/download/v1.0.0/app-release.apk) |
 | iOS      | [Download](https://github.com/xing-yue-hui/xing-yue-hui/releases/download/v1.0.0/app-release.apk) |
 
