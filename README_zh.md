@@ -47,11 +47,46 @@
 | Android | [下载](https://github.com/xing-yue-hui/xing-yue-hui/releases/download/v1.0.0/app-release.apk) |
 | iOS     | [下载](https://github.com/xing-yue-hui/xing-yue-hui/releases/download/v1.0.0/app-release.apk) |
 
-## 项目结构
+## 🏗️ 项目结构
 
-- `lib/`: 包含主要的 Dart 代码
-  - `config/`: 存放配置文件
-  - `controller/`: 存放控制器文件
-  - `main.dart`: 应用程序的入口点
-- `android/`: Android 特定的文件
-- `pubspec.yaml`: 项目依赖和配置文件
+我们的项目结构清晰明了，便于开发和维护：
+
+- `lib/`: 📁 主要 Dart 代码目录
+  - `config/`: ⚙️ 配置文件存放处
+  - `controller/`: 🎮 控制器文件集中地
+  - `main.dart`: 🚀 应用程序启动入口
+- `pubspec.yaml`: 📦 项目依赖与配置清单
+
+## 🤝 贡献
+
+我们热烈欢迎每一位热心的贡献者！您的参与将使这个项目更加出色。在开始贡献之前，请仔细阅读并遵守以下贡献指南：
+
+🌟 贡献指南 🌟
+
+1. 🍴 在 GitHub 上 fork 本项目
+2. 💻 将项目 clone 到本地
+3. 🌿 创建新的功能分支
+4. ✨ 在本地进行开发，实现新功能或修复 bug
+5. 🧪 进行充分的本地测试，确保代码质量
+6. 📝 提交代码，写好清晰的提交信息
+7. 🚀 将代码 push 到您的 GitHub 仓库
+8. 🎉 在 GitHub 上发起 Pull Request，等待审核
+
+让我们携手共创更美好的项目！您的每一份贡献都将被铭记和感激。
+
+
+## 🌟 我的其他精彩作品
+
+- 📚 [我就是盐神](https://github.com/wuliaoshuang/onehu_app)：一款基于 Flutter 打造的移动应用，为您呈现简约而不简单的阅读体验。让阅读成为一种享受，让知识触手可及。
+
+## 📜 开源协议
+
+本项目以 MIT 开源协议发布，赋予您以下权利：
+
+- 🆓 自由使用：您可以在任何场景下使用本项目，无需付费。
+- 🔧 自由修改：您可以根据自己的需求修改本项目的代码。
+- 🌐 自由分发：您可以将本项目或修改后的版本分享给他人。
+
+我们鼓励创新和分享，期待看到您基于本项目创造出更多精彩作品！
+
+📌 注意：使用本项目时，请保留原作者的版权声明。

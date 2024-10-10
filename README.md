@@ -1,4 +1,4 @@
-English | [简体中文](README_zh.md)
+Simplified Chinese | [English](README.md)
 
 <h2 align="center">New Yuri Forum APP</h2>
 
@@ -30,9 +30,9 @@ We are committed to addressing the following issues from the old version of the 
 - 📚 Reader unable to record current reading progress
 - 🖥️ Reader operation bar obstructing content
 
-### 💪 Improving Personal Skills
+### 💪 Enhancing Personal Skills
 
-Through this project, we will enhance our abilities in the following areas:
+Through this project, we will improve in the following areas:
 
 1. 🏗️ Flutter layout design skills
 2. 🌐 Application of Dio HTTP request library
@@ -47,11 +47,45 @@ Through this project, we will enhance our abilities in the following areas:
 | Android  | [Download](https://github.com/xing-yue-hui/xing-yue-hui/releases/download/v1.0.0/app-release.apk) |
 | iOS      | [Download](https://github.com/xing-yue-hui/xing-yue-hui/releases/download/v1.0.0/app-release.apk) |
 
-## Project Structure
+## 🏗️ Project Structure
 
-- `lib/`: Contains the main Dart code
-  - `config/`: Stores configuration files
-  - `controller/`: Stores controller files
-  - `main.dart`: Entry point of the application
-- `android/`: Android-specific files
-- `pubspec.yaml`: Project dependencies and configuration file
+Our project structure is clear and easy to understand, facilitating development and maintenance:
+
+- `lib/`: 📁 Main Dart code directory
+  - `config/`: ⚙️ Configuration file storage
+  - `controller/`: 🎮 Controller file centralization
+  - `main.dart`: 🚀 Application launch entry
+- `pubspec.yaml`: 📦 Project dependencies and configuration manifest
+
+## 🤝 Contribution
+
+We warmly welcome every enthusiastic contributor! Your participation will make this project even better. Before you start contributing, please carefully read and follow these contribution guidelines:
+
+🌟 Contribution Guidelines 🌟
+
+1. 🍴 Fork this project on GitHub
+2. 💻 Clone the project to your local machine
+3. 🌿 Create a new feature branch
+4. ✨ Develop locally, implementing new features or fixing bugs
+5. 🧪 Conduct thorough local testing to ensure code quality
+6. 📝 Commit your code with clear commit messages
+7. 🚀 Push the code to your GitHub repository
+8. 🎉 Initiate a Pull Request on GitHub and wait for review
+
+Let's work together to create a better project! Every contribution you make will be remembered and appreciated.
+
+## 🌟 My Other Excellent Works
+
+- 📚 [I Am the Salt God](https://github.com/wuliaoshuang/onehu_app): A mobile application built with Flutter, presenting you with a simple yet not simplistic reading experience. Making reading enjoyable and knowledge accessible.
+
+## 📜 Open Source License
+
+This project is released under the MIT open source license, granting you the following rights:
+
+- 🆓 Free use: You can use this project in any scenario without payment.
+- 🔧 Free modification: You can modify the code of this project according to your needs.
+- 🌐 Free distribution: You can share this project or modified versions with others.
+
+We encourage innovation and sharing, and look forward to seeing more wonderful works you create based on this project!
+
+📌 Note: When using this project, please retain the original author's copyright notice.
